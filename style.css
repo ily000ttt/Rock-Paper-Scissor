@@ -70,8 +70,7 @@ header> h1{
 
 .choice:hover{
     cursor: pointer;
-    background: red;
-
+    background: green
 }
 #action-massege{
     text-align: center;
