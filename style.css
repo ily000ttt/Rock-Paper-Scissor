@@ -72,7 +72,7 @@ header> h1{
     cursor: pointer;
     background: green
 }
-#action-massege{
+.action-massege{
     text-align: center;
     color: aliceblue;
     font-weight: bold;
